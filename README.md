@@ -39,8 +39,8 @@ A simple MERN Application to practice GQL
 
 ## Tech Stack
 
-    - GraphQL
-    - TypeScript
-    - PostgreSQL
-    - Prisma
-    - NextJS
+- GraphQL
+- TypeScript
+- PostgreSQL
+- Prisma
+- NextJS
